@@ -4,16 +4,21 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
+    margin-left: 500px;
     background-color: darkred;
 
 
 }
 
+.box input{
+    padding: 10px 15;
+}
+
 .submit{
     margin-top: 10px; 
-    padding: 5px 2.5px;
+    padding: 10px 15px;
     background-color: black;
     color: white;
     border-radius: 2px;
